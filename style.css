@@ -21,6 +21,10 @@
     border: 10px solid lightyellow;
 }
 
+.quotes button {
+    margin-bottom: 6px;
+}
+
 #quote {
     font-size: 2.5rem;
     font-weight: 500;
