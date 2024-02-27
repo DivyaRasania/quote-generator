@@ -1,5 +1,5 @@
 const API_KEY = "lGsAyLWYhrP/sOLMrrdxIA==BzCJrJut9g98gwzm";
-const API_URL = "https://api.api-ninjas.com/v1/quotes?limit=1&category=";
+const API_URL = "https://api.api-ninjas.com/v1/quotes?limit=1&category=funny";
 
 const options = {
     method: 'GET',
